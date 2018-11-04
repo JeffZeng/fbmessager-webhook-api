@@ -21,7 +21,7 @@ import com.restfb.types.webhook.messaging.MessagingItem;
 /**
  * Root resource (exposed at "myresource" path)
  */
-@Path("webHook")
+@Path("webhook")
 public class MyResource {
 
     /**
