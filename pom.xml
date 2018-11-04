@@ -51,6 +51,14 @@
             <type>pom</type>
             <scope>test</scope>
         </dependency>
+        
+        <!-- https://mvnrepository.com/artifact/com.restfb/restfb -->
+		<dependency>
+		    <groupId>com.restfb</groupId>
+		    <artifactId>restfb</artifactId>
+		    <version>2.12.0</version>
+		</dependency>
+        
     </dependencies>
 
     <build>
